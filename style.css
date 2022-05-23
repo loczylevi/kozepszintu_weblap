@@ -1,0 +1,34 @@
+p{
+    font-family: Helvetica;
+}
+a:link {
+    color: rgb(195, 195, 195);
+}
+a:visited {
+    color: #B97A5A;
+}
+a:hover {
+    color: rgb(195, 195, 195);
+}
+a:active {
+    color: rgb(195, 195, 195);
+}
+#kozepre{
+    text-align: center;
+}
+h2{
+    color: #B97A5A;
+}
+h1{
+    color: #B97A5A;
+}
+li{
+    color: #B97A5A;
+}
+.jobbra{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 300px;
+    border: 1px ridge;
+}
